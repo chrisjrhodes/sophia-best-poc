@@ -1,9 +1,10 @@
-# Sophia Best profile concept
+# Sophia Best animated profile
 
-A lightweight animated profile-page proof of concept for dancer Sophia Best, built with plain HTML, CSS, SVG and JavaScript.
+Transparent dual-dance artwork with animated lighting, ribbons, particles, parallax movement and live links.
 
-The current version uses a cropped image supplied for the prototype and links to Sophia's public Instagram, Taste of Cairo, and samba-class profile.
+Known public links:
+- Instagram: @thatsophiabest
+- Belly dance: tasteofcairo.com
+- Samba classes: @sososamba_
 
-## GitHub Pages
-
-The site is designed to publish directly from the repository root on the `main` branch.
+Booking and contact currently use existing public profiles for the pitch.
